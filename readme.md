@@ -6,7 +6,7 @@ Most of my work lives in org repos and isn't visible here.
  
 ### What I work on
  
-- Custom TradingView indicators and a chart-authoring studio
+- Custom TradingView indicators and a chart-authoring studio where creators draw on chart and publish it for their users
 - Real-time option chains over WebSockets (NATS + Protobuf)
 - Order execution flows for equities and F&O
 - Frontend architecture in a pnpm + Turborepo monorepo
