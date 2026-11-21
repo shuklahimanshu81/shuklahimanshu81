@@ -10,6 +10,9 @@ Most of my work lives in org repos and isn't visible here.
 - Real-time option chains over WebSockets (NATS + Protobuf)
 - Order execution flows for equities and F&O
 - Frontend architecture in a pnpm + Turborepo monorepo
+- Have worked on chart optimizations, freezes reduction, accessibility
+- Building products from 0 -> 1
+- Working on backend technlogies (Go, Node, mongoDB)
 ### Tech
  
 React · TypeScript · Next.js · Redux Toolkit · Zustand · WebSockets · TradingView · Tailwind CSS · Node.js · Express
